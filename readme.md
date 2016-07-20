@@ -18,7 +18,14 @@
 ##使用总结##
 1. javascript区分大小写，mongo.exe支持javacsript语法
 2. ）{比{单独开一行的好处是在命令行中知道代码没有敲完，会继续敲
+3. 典型的键/值类型应用，类json
+4. 分布式数据库  ObjectId
 
+
+
+
+##FAQ##
+1.[thread1]SyntaxError:missing;before statement@(shell):1:4
 
 
 
